@@ -1,0 +1,25 @@
+body{
+  background-color:coral;
+  font-family: cursive;
+}
+
+.Tarjeta{
+  text-align: center;
+  width: 400px;
+  margin: auto;
+  background-color:orangered;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;/*sombra numero 31*/
+}
+
+.imagen{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.texto{
+  text-align: center;
+  line-height: 1.5;
+}
+
